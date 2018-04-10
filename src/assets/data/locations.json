@@ -1,0 +1,40 @@
+{
+    "locations": [
+ 
+        {
+            "title": "Bank Of KTM BRT",
+            "latitude": 26.4634423,
+            "longitude": 87.2833279
+        },
+        {
+            "title": "Barketz Online Inverntory Management",
+            "latitude": 26.464149,
+            "longitude": 87.2844
+        },
+        {
+            "title": "Delta Tech Nepal",
+            "latitude": 26.464149,
+            "longitude": 87.2814981
+        },
+        {
+            "title": "Gorkha Department",
+            "latitude": 26.6638579,
+            "longitude": 87.2733758
+        },
+        {
+            "title": "Ithari Mall",
+            "latitude": 26.6638579,
+            "longitude": 87.2733758
+        },
+        {
+            "title": "Budhasubba Temple",
+            "latitude": 26.8130813,
+            "longitude": 87.2591213
+        },
+        {
+            "title": "Central Zoo",
+            "latitude": 27.6741767,
+            "longitude": 85.3094676
+        }
+    ]
+}
